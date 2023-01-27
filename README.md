@@ -8,7 +8,7 @@
 
 # Opis projekta
 ## Kratki opis
-Ovdje ide opis projekta
+Ideja projekta je izraditi aplikaciju za praćenje vijesti - digitalne novine. Korisnik će moći pregledavati novosti i spremati novosti u favorite koje onda može i pročitati kasnije. Vijesti će biti vidljive na naslovnoj strani i odabirom jedne možemo pročitati cijeli članak. Korisniku će biti vidljive i kategorije vijesti (sport, vrijeme, svijet, znanost...) kako bi lakše mogao pronaći ono što ga zanima. U projektu će biti implementirana registracija i prijava korisnika.
 
 ## Popis funkcionalnosti
 1. a
@@ -18,8 +18,7 @@ Ovdje ide opis projekta
 
 ## UPUTE
 ## Opis projekta
-Potrebno je napisati kratki opis projekta.
-Opis mora sadržavati popis osnovnih funkcionalnosti koje će biti implementirane (npr. "pretraživanje recepata", "unos novih recepta", "pretraživanje recepata po sastojcima" itd...)
+Ideja projekta je izraditi aplikaciju za praćenje vijesti - digitalne novine. Korisnik će moći pregledavati novosti i spremati novosti u favorite koje onda može i pročitati kasnije. Vijesti će biti vidljive na naslovnoj strani i odabirom jedne možemo pročitati cijeli članak. Korisniku će biti vidljive i kategorije vijesti (sport, vrijeme, svijet, znanost...) kako bi lakše mogao pronaći ono što ga zanima. U projektu će biti implementirana registracija i prijava korisnika.
 
 ## Početna struktura aplikacije
 Potrebno je inicijalizirati početnu strukturu mobilne aplikacije.
